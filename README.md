@@ -30,7 +30,8 @@ This website is built using **HTML and CSS**, with a structured layout and style
      - **Borders and Shadows:** Borders and box-shadows are used to give depth and structure to the elements.  
      - **Buttons and Interactivity:** The "Order Now" and "Send" buttons are styled with hover effects for a dynamic user experience.  
 
-![image](https://github.com/user-attachments/assets/59517165-eb45-4498-9d21-7312b0d0dbe4)
+![image](https://github.com/user-attachments/assets/fcdbb667-da4b-454f-8249-bce5ad1c21af)
+
 
 
 This website demonstrates the effective use of CSS principles, making it visually appealing and functional. It combines structure, styling, and interactivity to create a responsive and engaging design.
