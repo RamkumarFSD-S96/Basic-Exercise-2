@@ -18,7 +18,8 @@ This website is built using **HTML and CSS**, with a structured layout and style
 3. **CSS Selectors:**  
    - A variety of CSS selectors are used to target and style elements efficiently:  
      - **Element Selectors:** Styling tags like `<h1>`, `<p>`, `<img>`, and `<button>`.  
-     - **Class Selectors:** Used for reusable styles applied to multiple elements, such as `.nav-bar`, `.container`, and `.product-box`.  
+     - **Class Selectors:** Used for reusable styles applied to multiple elements, such as `.nav-bar`, `.container`, and `.product-box`.
+
      - **ID Selectors:** Unique styles for specific elements like `#submit-button`.  
      - **Pseudo-classes:** For hover effects on buttons (e.g., `button:hover`).  
 
@@ -29,8 +30,8 @@ This website is built using **HTML and CSS**, with a structured layout and style
      - **Borders and Shadows:** Borders and box-shadows are used to give depth and structure to the elements.  
      - **Buttons and Interactivity:** The "Order Now" and "Send" buttons are styled with hover effects for a dynamic user experience.  
 
+![image](https://github.com/user-attachments/assets/59517165-eb45-4498-9d21-7312b0d0dbe4)
+
+
 This website demonstrates the effective use of CSS principles, making it visually appealing and functional. It combines structure, styling, and interactivity to create a responsive and engaging design.
 
----  
-
-Does this match your vision? Let me know if you'd like me to add more details or adjust the focus!
