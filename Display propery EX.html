@@ -1,0 +1,78 @@
+<!-- Block - It will take the entire space,But still we can make the changes with Height and Width
+Inline - It will consume until the text length, we cannot make the changes.
+Inline-Block -It will consume until the text length but still it is blocked until the entire space ,so we can make the changes by Height and Width -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<style>
+    .Div1 {
+        background: red;
+        width: 250px;
+        height: 250px;
+        padding: 10px;
+        margin: 10px;
+        display: inline-block;
+    }
+
+    .Div2 {
+        background: black;
+        width: 250px;
+        height: 250px;
+        padding: 10px;
+        margin: 10px;
+        display: inline-block;
+    }
+
+    .Div3 {
+        background: yellow;
+        width: 250px;
+        height: 250px;
+        padding: 10px;
+        margin: 10px;
+        display: inline-block;
+
+    }
+
+    .color {
+        display: block;
+    }
+
+    .ContainerNumber 
+    {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h1
+    {
+        background-color: chocolate;
+        padding: 20px;
+        margin: 10px;
+        display:inline-block;
+        border:solid black 2px;
+    }
+</style>
+
+<body>
+    <div class="color">
+        <div class="Div1"></div>
+        <div class="Div2"></div>
+        <div class="Div3"></div>
+    </div>
+
+    <div class="ContainerNumber">
+        <h1>1</h1>
+        <h1>2</h1>
+        <h1>3</h1>
+        <h1>4</h1>
+        <h1>5</h1>
+    </div>
+
+           
+</body>
+
+</html>
